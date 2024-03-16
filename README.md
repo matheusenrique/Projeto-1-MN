@@ -1,1 +1,3 @@
-# Projeto-1-m-todos-num-ricos
+# Projeto-1-MN
+
+Projeto 1 - Equações Algébricas
